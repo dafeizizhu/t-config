@@ -1,0 +1,23 @@
+{
+  "name": "t-config",
+  "version": "1.0.0",
+  "description": "A client for tafconfig server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafeizizhu/t-config.git"
+  },
+  "keywords": [
+    "taf",
+    "config"
+  ],
+  "author": "maizhiying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dafeizizhu/t-config/issues"
+  },
+  "homepage": "https://github.com/dafeizizhu/t-config#readme"
+}
