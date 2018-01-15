@@ -1,5 +1,5 @@
 {
-  "name": "t-config",
+  "name": "t-configure",
   "version": "1.0.0",
   "description": "A client for tafconfig server",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dafeizizhu/t-config.git"
+    "url": "git+https://github.com/dafeizizhu/t-configure.git"
   },
   "keywords": [
     "taf",
@@ -17,7 +17,7 @@
   "author": "maizhiying",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dafeizizhu/t-config/issues"
+    "url": "https://github.com/dafeizizhu/t-configure/issues"
   },
-  "homepage": "https://github.com/dafeizizhu/t-config#readme"
+  "homepage": "https://github.com/dafeizizhu/t-configure#readme"
 }
